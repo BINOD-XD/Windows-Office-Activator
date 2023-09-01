@@ -13,9 +13,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/BINOD-XD"><img title="Followers" src="https://img.shields.io/github/followers/BINOD-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Stars" src="https://img.shields.io/github/stars/BINOD-XD/Windows-Office-Activator-By-RXS?color=red&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Forks" src="https://img.shields.io/github/forks/BINOD-XD/Windows-Office-Activator-By-RXS?color=red&style=flat-square"></a>
-<a href="https://github.com/BINOD-XD"><img title="Watching" src="https://img.shields.io/github/watchers/BINOD-XD/Windows-Office-Activator-By-RXS?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Stars" src="https://img.shields.io/github/stars/BINOD-XD/Windows-Office-Activator?color=red&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Forks" src="https://img.shields.io/github/forks/BINOD-XD/Windows-Office-Activator?color=red&style=flat-square"></a>
+<a href="https://github.com/BINOD-XD"><img title="Watching" src="https://img.shields.io/github/watchers/BINOD-XD/Windows-Office-Activator?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align="center">  
 <p align="center">  <a href="https://t.me/teamrxs"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
